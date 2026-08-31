@@ -1,0 +1,11 @@
+loan_id,borrower_id,loan_type,origination_date,maturity_date,original_principal,current_balance,interest_rate,term_months,borrower_state,loan_purpose,credit_grade,employment_length,income_band,payment_status,days_past_due,servicer_name,last_payment_date,last_updated_at,document_status,source_system
+LN1001,BR2001,Personal Loan,2023-01-15,2028-01-15,100000,82000,8.5,60,CA,Home Improvement,B,5 years,50000-75000,current,0,ServicerOne,2026-07-15,2026-08-20 10:30:00,complete,loan_tape
+LN1002,BR2002,Auto Loan,2022-06-10,2027-06-10,250000,180000,7.25,60,TX,Vehicle,A,10 years,75000-100000,current,0,ServicerOne,2026-07-10,2026-08-18 09:15:00,complete,loan_tape
+,BR2003,Personal Loan,2024-02-01,2029-02-01,75000,60000,9.5,60,NY,Education,C,3 years,50000-75000,current,0,ServicerTwo,2026-07-20,2026-08-21 11:00:00,complete,loan_tape
+LN1004,BR2004,Home Loan,2024-05-01,2023-05-01,500000,450000,6.2,120,FL,Home Purchase,A,8 years,100000-150000,current,0,ServicerOne,2026-07-01,2026-08-19 14:20:00,complete,loan_tape
+LN1005,BR2005,Personal Loan,2023-03-12,2028-03-12,-50000,20000,8.0,60,WA,Medical,D,2 years,25000-50000,current,0,ServicerTwo,2026-07-05,2026-08-22 08:00:00,complete,loan_tape
+LN1006,BR2006,Auto Loan,2023-04-20,2028-04-20,120000,145000,7.8,60,OH,Vehicle,B,6 years,75000-100000,current,0,ServicerOne,2026-07-11,2026-08-20 16:45:00,complete,loan_tape
+LN1007,BR2007,Personal Loan,2024-01-05,2029-01-05,90000,70000,8.9,60,XX,Education,C,4 years,50000-75000,current,0,ServicerTwo,2026-07-09,2026-08-21 12:10:00,complete,loan_tape
+LN1008,BR2008,Personal Loan,2023-08-01,2028-08-01,110000,90000,9.1,60,CA,Travel,C,2 years,50000-75000,current,45,ServicerOne,2026-06-15,2026-08-20 09:00:00,complete,loan_tape
+LN1009,BR2009,Personal Loan,2023-09-10,2028-09-10,85000,65000,8.75,60,NY,Education,B,5 years,75000-100000,delinquent,0,ServicerTwo,2026-07-01,2026-08-21 10:00:00,,loan_tape
+LN1002,BR2010,Auto Loan,2022-06-10,2027-06-10,200000,150000,7.25,60,TX,Vehicle,B,7 years,75000-100000,current,0,ServicerOne,2026-07-10,2026-08-18 09:15:00,complete,loan_tape
